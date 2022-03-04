@@ -9,3 +9,5 @@ A comparicon between k-Nearest Neighbor and Support Vector Machine (linear and r
 *Evaluation metrics:* Accuracy (K-Fold Cross Validation), Decision Boundaries.
 <br>
 *Programming language and main libraries:* Python, Scikit-learn.
+
+<br>For more details see [*AIML-hw1.pdf*](AIML-hw1.pdf).
